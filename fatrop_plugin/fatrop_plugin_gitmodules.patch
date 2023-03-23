@@ -1,0 +1,8 @@
+--- original_gitmodules	2023-03-23 11:14:11
++++ mod_gitmodules	2023-03-23 11:14:39
+@@ -1,4 +1,4 @@
+ [submodule "external/fatrop"]
+ 	path = external/fatrop
+-	url = git@gitlab.kuleuven.be:robotgenskill/fatrop/fatrop.git
++	url = https://gitlab.kuleuven.be/robotgenskill/fatrop/fatrop.git
+   branch = develop

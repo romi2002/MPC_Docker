@@ -1,0 +1,4 @@
+[submodule "external/fatrop"]
+	path = external/fatrop
+	url = git@gitlab.kuleuven.be:robotgenskill/fatrop/fatrop.git
+  branch = develop
